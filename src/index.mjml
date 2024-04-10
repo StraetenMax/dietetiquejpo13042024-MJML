@@ -113,7 +113,7 @@
                         <b style="color:#ec619f">Accès Tramway :</b> Terminus Tourcoing Centre.
                     </mj-text>
                     <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu">
-                        <b style="color:#1ec619f">Accès Bus :</b> Gare routière de Tourcoing.
+                        <b style="color:#ec619f">Accès Bus :</b> Gare routière de Tourcoing.
                     </mj-text>
                     <mj-text padding-top="0" padding-bottom="0" mj-class="d-lieu">
                         <b style="color:#ec619f">Accès Train :</b> Gare de Tourcoing puis station de Métro Tourcoing Centre
@@ -149,6 +149,7 @@
                 <mj-social padding-top="0" padding-bottom="0" align="right" icon-size="35px" mode="horizontal" css-class="m-footer2">
                     <mj-social-element background-color="#a83163" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
                     <mj-social-element background-color="#a83163" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
+                    <mj-social-element background-color="#a83163" name="linkedin" href="https://linkedin.com/company/ecosup-campus"></mj-social-element>
                 </mj-social>
             </mj-column>
         </mj-section>
